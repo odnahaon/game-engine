@@ -7,7 +7,7 @@ version '1.0-SNAPSHOT'
 
 project.ext.lwjglVersion = "3.3.0"
 project.ext.lwjglNatives = "natives-windows"
-2
+
 repositories {
     mavenCentral()
 }
